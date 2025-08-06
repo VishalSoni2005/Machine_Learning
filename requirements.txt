@@ -1,0 +1,12 @@
+# Core Python Scientific Stack
+numpy
+pandas
+matplotlib
+seaborn
+
+# Jupyter Notebook
+notebook
+
+# Machine Learning
+scikit-learn
+
